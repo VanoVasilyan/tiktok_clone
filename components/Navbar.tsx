@@ -22,6 +22,6 @@ const Navbar = () => {
       </Link>
     </div>
   )
-}
+};
 
 export default Navbar
